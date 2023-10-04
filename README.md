@@ -27,9 +27,13 @@ You can try out the Image Editor App [here](https://nimble-stardust-968bdc.netli
 
 ## Screenshots
 
+### User Interface - Initial 
 ![Screenshot 1](./redmeImages/userInterface.JPG)
+### User Interface - When user Select an image
 ![Screenshot 2](./redmeImages/2userInterface.JPG)
+### User Interface - When user wants to change the image size
 ![Screenshot 3](./redmeImages/3userInterface.JPG)
+### User Interface - Responsive
 ![Screenshot 4](./redmeImages/4userInterface.JPG)
 
 
