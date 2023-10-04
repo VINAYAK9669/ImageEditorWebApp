@@ -27,7 +27,7 @@ You can try out the Image Editor App [here](https://nimble-stardust-968bdc.netli
 
 ## Screenshots
 
-![Screenshot 1](screenshot1.png)
+![Screenshot 1](./redmeImages/userInterface.JPG)
 ![Screenshot 2](screenshot2.png)
 
 Happy Editing! 🎨
