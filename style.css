@@ -154,6 +154,7 @@ body {
   color: #fff;
   background: #5372f0;
   border: 1px solid #5372f0;
+  transform: translateY(0);
   transition: all 0.3s;
   pointer-events: auto;
   box-shadow: none;
