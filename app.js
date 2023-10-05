@@ -154,17 +154,18 @@ const resizeHandler = () => {
 
 widthInput.addEventListener("keyup", () => {
   const height = ratioInput.checked
-    ? widthInput.value * ogImgRatio
+    ? widthInput.value / ogImgRatio
     : heightInput.value;
   heightInput.value = Math.floor(height);
 });
 
 heightInput.addEventListener("keyup", () => {
   const width = ratioInput.checked
-    ? heightInput.value / ogImgRatio
+    ? heightInput.value * ogImgRatio
     : widthInput.value;
   widthInput.value = Math.floor(width);
 });
+
 
 // ===============        EVENT LISTENER         =======================
 
