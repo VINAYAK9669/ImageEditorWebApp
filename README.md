@@ -25,6 +25,8 @@ Welcome to the Image Editor App! This web application allows you to edit and enh
 
 You can try out the Image Editor App [here](https://nimble-stardust-968bdc.netlify.app/). 
 
+You can see the Video Demo in LinkedIn Post - [Click Here](https://www.linkedin.com/posts/vinay1998_jobseeker-reactdeveloper-frontenddeveloper-activity-7118903567045836800-zJRI?utm_source=share&utm_medium=member_desktop)
+
 ## Screenshots
 
 ### User Interface - Initial 
